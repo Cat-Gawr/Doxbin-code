@@ -1,5 +1,5 @@
 # Doxbin-code
 
 
-This is a codde fro doxbin
+This is a code fro doxbin
      [+]for Slash
